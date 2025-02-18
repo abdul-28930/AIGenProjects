@@ -1,0 +1,13 @@
+ai_image_generator/
+├── src/
+│   ├── __init__.py
+│   ├── generators/
+│   │   ├── __init__.py
+│   │   ├── prodia.py
+│   │   └── pollinations.py
+│   └── utils/
+│       ├── __init__.py
+│       └── config.py
+├── app.py
+├── requirements.txt
+└── README.md 
